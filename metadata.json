@@ -1,0 +1,6 @@
+{
+  "name": "Candle Watcher Trading",
+  "description": "Android trading-chart application and live candle-colour watcher with five-minute boundary tracking, OHLC analytics, and automated GitHub Actions APK CI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
